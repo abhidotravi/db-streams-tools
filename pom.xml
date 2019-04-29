@@ -24,11 +24,11 @@
   </dependencies>-->
   <properties>
     <scala.version>2.11.6</scala.version>
-    <mapr.core.version>6.0.1-mapr-SNAPSHOT</mapr.core.version>
-    <mapr.kafka.version>1.0.1-mapr-1801-SNAPSHOT</mapr.kafka.version>
+    <mapr.core.version>6.1.0-mapr</mapr.core.version>
+    <mapr.kafka.version>1.0.1-mapr-1801</mapr.kafka.version>
   </properties>
 
-  <!--<repositories>
+  <repositories>
     <repository>
       <id>scala-tools.org</id>
       <name>Scala-tools Maven2 Repository</name>
@@ -44,7 +44,7 @@
         <enabled>true</enabled>
       </releases>
     </repository>
-  </repositories>-->
+  </repositories>
   <pluginRepositories>
     <pluginRepository>
       <id>scala-tools.org</id>
